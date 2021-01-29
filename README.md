@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - [Pogotools](https://pogotools.tk)
+  - [Pogotools](https://pogotools.tk) (Gatsby PWA, Socket on AWS Lambda, MongoDb, Push Notifications)
   - [Comfey](https://github.com/dejavu1987/comfey)
   - PIMP (PIng-pong Management Platform) (Arduino / Nodejs / React Js)
   - [LeafBook](https://plants.review.com.np/)
