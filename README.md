@@ -8,3 +8,5 @@
   - [CocktailMeister](https://cocktail.review.com.np/)
 - 🌱 I’m currently learning Neo4j, GraphQL, ReactJs, GatsbyJs, AWS
 - 📫 How to reach me: [Twitter](https://twitter.com/dejavu1987)
+
+[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavu1987)](https://github.com/anuraghazra/github-readme-stats)
