@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 - 🔭 I’m currently working on 
   - [Lummu.de](https://www.lummu.de/) (E-commerce site using NextJs, Keystone 6, PostgreSQL)
   - [Pogotools](https://pogotools.netlify.app/) (Gatsby PWA, Serverless, Socket on AWS Lambda, MongoDb, Push Notifications)
