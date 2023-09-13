@@ -3,7 +3,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 - 🔭 I’m currently working on
-  - Viqi - An AI Assistant (Python, OpenAI API, PineCone, Langchain, Flask, Vercel, Supabase, MS Teams Toolkit, MS Bot framework)[Blog post](https://anilmaharjan.com.np/blog/livestream-building-an-ai-powered-app-for-microsoft-teams/)
+  - Viqi - An AI Assistant (Python, OpenAI API, PineCone, Langchain, Flask, Vercel, Supabase, MS Teams Toolkit, MS Bot framework)[MS Teams Bot Blog Post](https://anilmaharjan.com.np/blog/livestream-building-an-ai-powered-app-for-microsoft-teams/) [Langchain Basics Blog Post](https://anilmaharjan.com.np/blog/langchain-tool-that-helps-you-build-ai-apps-with-ease/)
   - [Lummu.de](https://www.lummu.de/) (E-commerce site using NextJs, Keystone 6, PostgreSQL)
   - [Pogotools](https://pogotools.netlify.app/) (Gatsby PWA, Serverless, Socket on AWS Lambda, MongoDb, Push Notifications)
   - [Comfey](https://github.com/dejavu1987/comfey) (Tiny Library for state management in VanillaJs)
