@@ -13,7 +13,7 @@
   - PIMP (PIng-pong Management Platform) (Arduino / Nodejs / React Js)
   - [LeafBook](https://plants.review.com.np/) (Gatsby, Neo4j, ExpressJs, MongoDB)
   - [CocktailMeister](https://cocktail.review.com.np/) (Gatsby, KeystoneJs, MongoDB)
-- 🌱 I’m currently learning Neo4j, GraphQL, ReactJs, GatsbyJs, AWS, TypeScript
+- 🌱 I’m currently learning Neo4j, AWS, Rust
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anilmaharjandeveloper/) | [Blog](https://anilmaharjan.com.np/) | [Twitter](https://twitter.com/dejavu1987)
 
 [![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavu1987)](https://github.com/anuraghazra/github-readme-stats)
