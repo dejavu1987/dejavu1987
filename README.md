@@ -6,6 +6,7 @@
   - Viqi - An AI Assistant (Python, OpenAI API, PineCone, Langchain, Flask, Vercel, Supabase, MS Teams Toolkit, MS Bot framework)
     - [MS Teams Bot Blog Post](https://anilmaharjan.com.np/blog/livestream-building-an-ai-powered-app-for-microsoft-teams/)
     - [Langchain Basics Blog Post](https://anilmaharjan.com.np/blog/langchain-tool-that-helps-you-build-ai-apps-with-ease/)
+  - [Standalone FreeTouchDeck Configurator](https://github.com/dejavu1987/ftd-config-sa) (Vite, ReactJs, AWS Lambda, Serverless Framework, PWA)
   - [FreeTouchDeck with Airmouse](https://anilmaharjan.com.np/blog/freetouchdeck-with-air-mouse-feature/) (ESP32, Arduino, MPU-6050 Gyro/Accelerometer, TFT TouchScreen ILI9341)
   - [Lummu.de](https://www.lummu.de/) (E-commerce site using NextJs, Keystone 6, PostgreSQL)
   - [Pogotools](https://pogotools.netlify.app/) (Gatsby PWA, Serverless, Socket on AWS Lambda, MongoDb, Push Notifications)
