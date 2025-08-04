@@ -14,7 +14,7 @@
   - [Lummu.de](https://www.lummu.de/) (E-commerce site using NextJs, Keystone 6, PostgreSQL)
   - [Pogotools](https://pogotools.netlify.app/) (Gatsby PWA, Serverless, Socket on AWS Lambda, MongoDb, Push Notifications)
   - [Comfey](https://github.com/dejavu1987/comfey) (Tiny Library for state management in VanillaJs)
-  - PIMP (PIng-pong Management Platform) (Arduino / Nodejs / React Js)
+  - [PIMP](https://anilmaharjan.com.np/blog/pimp-ping-pong-management-platform/) (PIng-pong Management Platform) (Arduino / Nodejs / React Js / ZeppOS)
   - [LeafBook](https://plants.review.com.np/) (Gatsby, Neo4j, ExpressJs, MongoDB)
   - [CocktailMeister](https://cocktail.review.com.np/) (Gatsby, KeystoneJs, MongoDB)
 - 🌱 I’m currently learning ReactNative, Neo4j, AWS, Rust
