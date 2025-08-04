@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 - 🔭 I’m currently working on
   - [MomoCoder Gaming tools](https://momocoder.click)
     - [MomoGameTracker](https://momocoder.click/momoGameTracker-app) (Electron, TypeScript, ReactJs, TwitchAPI, SQLite)
