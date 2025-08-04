@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on
   - [MomoCoder Gaming tools](https://momocoder.click)
-    - [MomoGameTracker](https://momocoder.click/momoGameTracker-app)
-    - [MomoAvatarOverlay](https://momocoder.click/momoAvatarOverlay-app)
+    - [MomoGameTracker](https://momocoder.click/momoGameTracker-app) (Electron, TypeScript, ReactJs, TwitchAPI, SQLite)
+    - [MomoAvatarOverlay](https://momocoder.click/momoAvatarOverlay-app) (TypeScript, Nodejs, TwitchAPI)
   - Viqi - An AI Assistant (Python, OpenAI API, PineCone, Langchain, Flask, Vercel, Supabase, MS Teams Toolkit, MS Bot framework)
     - [MS Teams Bot Blog Post](https://anilmaharjan.com.np/blog/livestream-building-an-ai-powered-app-for-microsoft-teams/)
     - [Langchain Basics Blog Post](https://anilmaharjan.com.np/blog/langchain-tool-that-helps-you-build-ai-apps-with-ease/)
